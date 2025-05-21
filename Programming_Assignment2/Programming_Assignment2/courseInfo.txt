@@ -1,0 +1,7 @@
+COSC1337 Zand   5  data1337.txt
+BIOL1111 Smith  6  data1111.txt
+BIOL2222 Black  4  data2222.txt
+ENGL1299 Davis  8  data1299.txt
+MATH2234 Clive  9  data2234.txt
+COSC3331 Miller 8  data3331.txt
+COSC3317 Cooper 12 data3317.txt
